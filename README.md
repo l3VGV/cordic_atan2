@@ -1,11 +1,13 @@
 # cordis_atan2
-cordic atan2 for stm32
+cordic atan2 for stm32 and other 32bit arm cortex
 
 
 
 perfomance is good, witrh no optimisation enabled 2.5 time faster than math atan2f. up to 7-10 faster with optimisation
 
 precision is good too
+
+tested on stm32f103 at 72MHz
 
 ```
 no opt
