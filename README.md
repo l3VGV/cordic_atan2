@@ -3,7 +3,7 @@ cordic atan2 for stm32
 
 
 
-perfomance is good, witrh no optimisation enabled 2.5 time faster than math atan2f. up to 7 faster with optimisation
+perfomance is good, witrh no optimisation enabled 2.5 time faster than math atan2f. up to 7-10 faster with optimisation
 
 precision is good too
 
