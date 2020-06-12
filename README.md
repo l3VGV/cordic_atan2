@@ -1,4 +1,4 @@
-# cordis_atan2
+# cordic_atan2
 cordic atan2 for stm32 and other 32bit arm cortex
 
 
