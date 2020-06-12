@@ -1,6 +1,8 @@
 # cordic_atan2
 cordic atan2 for stm32 and other 32bit arm cortex
 
+https://www.st.com/resource/en/design_tip/dm00441302-coordinate-rotation-digital-computer-algorithm-cordic-to-compute-trigonometric-and-hyperbolic-functions-stmicroelectronics.pdf
+
 
 
 perfomance is good, witrh no optimisation enabled 2.5 time faster than math atan2f. up to 7-10 faster with optimisation
